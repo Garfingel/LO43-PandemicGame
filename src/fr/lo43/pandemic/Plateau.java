@@ -18,7 +18,20 @@ public class Plateau {
 	
 	public void initGame()
 	{
+		/*
+		initialiser valeurs
+				
+		générer cartes
 		
+		créer salles
+		
+		créer joueurs
+		
+		(placer station atlanta)
+		
+		(placer cubes)
+		
+		 */
 	}
 	
 	public void playTurn()
